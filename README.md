@@ -24,4 +24,4 @@ O projeto foi construído com as seguintes tecnologias:
 
 <img width="1365" height="609" alt="image" src="https://github.com/user-attachments/assets/33605893-7619-4f36-83a4-ad78ce2a395f" />
 
-
+index.php
